@@ -6,3 +6,4 @@ Just download latest zip versions of Elasticsearch, Logstash and Kibana from htt
 and then extract them. And ready to go!!!
 
 Do not forget to type your own Twitter API OAuth keys/tokens on your twitter.conf file.
+Again do not forget to modify path parameter in your extractData.conf file.
